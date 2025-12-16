@@ -113,7 +113,7 @@ open http://localhost:8080
 
 ### Deploy na AWS
 
-Para instruções completas de deploy na AWS, consulte o [**SETUP.md**](Setup.md).
+Para instruções completas de deploy na AWS, consulte o [**SETUP.md**](my-devops-projetc/Setup.md).
 
 ## 📊 Recursos AWS Utilizados
 
